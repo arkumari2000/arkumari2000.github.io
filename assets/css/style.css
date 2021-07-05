@@ -1073,3 +1073,10 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+#blogs .img-fluid{
+  height: 350px;
+}
+#blogs .portfolio-wrap{
+  text-align: center;
+}
